@@ -53,7 +53,7 @@ class ShimadaMizuki:
 
 
 ### 成就 / My Achievement
-|![mizuki's github stats](https://github-readme-stats.vercel.app/api?username=enderseven1&show_icons=true&count_private=true&locale=zh-cn)|![mizuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderseven1&locale=zh-cn)| <!--&exclude_repo=enderseven1.github.io&layout=compact-->
+|![mizuki's github stats](https://github-readme-stats.vercel.app/api?username=enderseven1&show_icons=true&count_private=true&locale=cn)|![mizuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderseven1&locale=cn)| <!--&exclude_repo=enderseven1.github.io&layout=compact-->
 |-|-|
 
 ### 访客 / Visitors
