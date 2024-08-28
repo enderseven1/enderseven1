@@ -1,6 +1,9 @@
-
 <div align="center">
-  
+## 岛田水木的主页 / I'm Shimada Mizuki
+
+![GitHub followers](https://img.shields.io/github/followers/frg2089)
+![GitHub User's stars](https://img.shields.io/github/stars/frg2089?affiliations=OWNER%2CCOLLABORATOR)
+
 [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=microsoft)](https://www.microsoft.com)
 [![OS:Android10](https://img.shields.io/badge/OS-Android%2013-green?logo=android)](https://www.android.com/)  
 
@@ -14,7 +17,7 @@
 |-|-|
 
 <!--&exclude_repo=enderseven1.github.io&layout=compact-->
-<!--<img src="https://readme-typing-svg.demolab.com?font=Mizuki-Ming&pause=1000&color=000000&center=true&width=400&height=50&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D%E3%80%82" alt="Typing SVG" />-->
+<img src="https://readme-typing-svg.demolab.com?font=Mizuki-Ming&pause=1000&color=000000&center=true&width=400&height=50&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D%E3%80%82" alt="Typing SVG" />
 
 ---
 </div><div align="left">
