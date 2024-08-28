@@ -11,7 +11,7 @@
 <img src="" width = "0" height = "0" align=center /> </br>
 <img src="https://readme-typing-svg.demolab.com?font=Mizuki-Ming&pause=1000&color=000000&center=true&width=400&height=50&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D%E3%80%82" alt="Typing SVG" />
 ---
-
+</div><div align="left">
 > Hello, World!
 
 ``` python
@@ -25,7 +25,7 @@ class ShimadaMizuki:
         self.programmingLanguages = ["Codemao（编程猫）","Python","C#","易语言"]
         self.national = "Chinese"
 ```
-
+</div><div align="center">
 [开源字体一览（图文版）](https://github.com/enderseven1/enderseven1/blob/main/fonts.md)
 
 [![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=enderseven1&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
