@@ -39,7 +39,7 @@ class ShimadaMizuki:
   
 [开源字体一览（图文版）](https://github.com/enderseven1/enderseven1/blob/main/fonts.md)
 
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=enderseven1&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
+<!--[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=enderseven1&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)-->
 
 [个人博客1 / Blog](https://dtsm.mqmrx.cn) <sup>已停用 / Stopped</sup>  
 [个人博客2 / Blog](https://enderseven.cf) <sup>已停用 / Stopped</sup>  
