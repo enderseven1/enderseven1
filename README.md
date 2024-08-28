@@ -1,6 +1,13 @@
 
 <div align="center">
   
+[![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=microsoft)](https://www.microsoft.com)
+[![OS:Android10](https://img.shields.io/badge/OS-Android%2013-green?logo=android)](https://www.android.com/)  
+
+[![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![IDE:VS2022](https://img.shields.io/badge/IDE-Visual%20Studio%202022-blueviolet?logo=visualstudio)](https://visualstudio.com/)
+
+
 <img src="" width = "0" height = "0" align=center /> </br>
 <img src="https://readme-typing-svg.demolab.com?font=Mizuki-Ming&pause=1000&color=000000&center=true&width=400&height=50&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D%E3%80%82" alt="Typing SVG" />
 ---
@@ -25,6 +32,24 @@
 [![](https://img.shields.io/badge/shenshuqing869-%40gmail.com-royalblue?style=flat-square)](mailto:shenshuqing869@gmail.com)
 [![](https://img.shields.io/badge/shimadamizuki1-%40outlook.com-royalblue?style=flat-square)](mailto:shimadamizuki1@outlook.com)
 
+## 奖项 / GitHub Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frg2089&row=1&column=8&no-frame=true&no-bg=true" alt="frg2089"/>
+</div>
+
+
+### 成就 / My Achievement
+|![mizuki's github stats](https://github-readme-stats.vercel.app/api?username=enderseven1&show_icons=true&theme=midnight-purple&count_private=true)|![mizuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderseven1&theme=midnight-purple)| <!--&exclude_repo=enderseven1.github.io&layout=compact-->
+|-|-|
+
+### 访客 / Visitors
+<div align="center">
+  <img src="https://count.getloli.com/get/@enderseven1?theme=rule34" alt="mizuki's count"/>
+  <p>感谢浏览。Thanks to visited.</p>
+</div>
+<div align=right>
+  <p>Shimada Mizuki</p>
+</div>
 <!--
 
 ### Devices in use
@@ -36,7 +61,7 @@
 ### System Environment
 
 [![iOS 15](https://img.shields.io/badge/15%2E2-000000?style=flat-square&logo=ios&logoColor=ffffff)](#)
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![Android 10](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 -->
