@@ -10,10 +10,12 @@
 
 <img src="" width = "0" height = "0" align=center /> </br>
 
-|![mizuki's github stats](https://github-readme-stats.vercel.app/api?username=enderseven1&show_icons=true&count_private=true&locale=cn)|![mizuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderseven1&locale=cn)| <!--&exclude_repo=enderseven1.github.io&layout=compact-->
+|![mizuki's github stats](https://github-readme-stats.vercel.app/api?username=enderseven1&show_icons=true&count_private=true&locale=cn)|![mizuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderseven1&locale=cn)|
 |-|-|
 
+<!--&exclude_repo=enderseven1.github.io&layout=compact-->
 <!--<img src="https://readme-typing-svg.demolab.com?font=Mizuki-Ming&pause=1000&color=000000&center=true&width=400&height=50&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D%E3%80%82" alt="Typing SVG" />-->
+
 ---
 </div><div align="left">
 > Hello, World!
