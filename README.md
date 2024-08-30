@@ -2,8 +2,8 @@
     
 ## 岛田水木的主页 / I'm Shimada Mizuki
 
-![GitHub followers](https://img.shields.io/github/followers/frg2089)
-![GitHub User's stars](https://img.shields.io/github/stars/frg2089?affiliations=OWNER%2CCOLLABORATOR)
+![GitHub followers](https://img.shields.io/github/followers/enderseven1)
+![GitHub User's stars](https://img.shields.io/github/stars/enderseven1?affiliations=OWNER%2CCOLLABORATOR)
 
 [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=microsoft)](https://www.microsoft.com)
 [![OS:Android10](https://img.shields.io/badge/OS-Android%2010-green?logo=android)](https://www.android.com/)  
