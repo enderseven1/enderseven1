@@ -41,7 +41,7 @@ class ShimadaMizuki:
 
 <!--[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=enderseven1&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)-->
 
-[个人博客1 / Blog](https://dtsm.mqmrx.cn) <sup>已停用 / Stopped</sup>  
+[个人博客1 / Blog](https://dtsm.mqmrx.cn) <sup>开放 / Opening</sup>  
 [个人博客2 / Blog](https://enderseven.cf) <sup>已停用 / Stopped</sup>  
 [打赏 / Donate](https://github.com/enderseven1/enderseven1/blob/main/Donate.md)
 ### 关注方式 / Follow
