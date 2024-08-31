@@ -59,7 +59,7 @@ class ShimadaMizuki:
 
 ## 奖项 / GitHub Profile Trophy
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frg2089&row=1&column=8&no-frame=true&no-bg=true" alt="frg2089"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=enderseven1&row=1&column=8&no-frame=true&no-bg=true" alt="frg2089"/>
 </div>
 
 ### 访客 / Visitors
