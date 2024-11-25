@@ -32,7 +32,7 @@ class ShimadaMizuki:
         self.ChineseName = "岛田水木"
         self.birthday = "2008.10.28"
         self.job = "高中牲"
-        self.programmingLanguages = ["Codemao（编程猫）","Python","C#","易语言"]
+        self.programmingLanguages = ["Codemao（编程猫）","Python","C#","VB.NET","C++","VB6","易语言"]
         self.national = "Chinese"
 ```
 </div><div align="center">
