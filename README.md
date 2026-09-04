@@ -47,7 +47,7 @@ class ShimadaMizuki:
 ### 关注方式 / Follow
 <!--[![Telegram](https://img.shields.io/badge/lxgwtg-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/lxgwtg)-->
 <!--[![Telegram 频道](https://img.shields.io/badge/Channel-26a5e4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/lxgwfont) -->
-[![微信公众号](https://img.shields.io/badge/%E6%9C%A8%E6%82%A6%E5%A9%89%E5%85%B4%E8%B6%A3%E7%A4%BE-07c160?style=flat-square&logo=wechat&logoColor=ffffff)]
+![微信公众号](https://img.shields.io/badge/%E6%9C%A8%E6%82%A6%E5%A9%89%E5%85%B4%E8%B6%A3%E7%A4%BE-07c160?style=flat-square&logo=wechat&logoColor=ffffff)
 [![微博](https://img.shields.io/badge/%E5%B2%9B%E7%94%B0%E6%B0%B4%E6%9C%A8-orange?style=flat-square&logo=Sina%20Weibo&logoColor=ffffff)](https://weibo.com/3839304151)
 [![哔哩哔哩](https://img.shields.io/badge/%E5%B2%9B%E7%94%B0%E6%B0%B4%E6%9C%A8-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/34117449)  
 <!--[![小红书](https://img.shields.io/badge/%E5%B2%9B%E7%94%B0%E6%B0%B4%E6%9C%A8-ff2645?style=flat-square&logo=xiaohongshu&logoColor=ffffff)](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)-->
