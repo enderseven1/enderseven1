@@ -7,7 +7,7 @@
 
 </div>
 
-> **About My Name**  
+> **About My Names**  
 > Usually I use my main name "Mizuki Shimada" ("しまだ　みずき" in Japanese Hiragana, "島田みずき" or "島田水木" in Japanese Kanji).  
 > Sometimes I use last-name-changed name "Mizuki Nakajima" ("なかじま　みずき" in Japanese Hiragana, "中島みずき" or "島田水木" in Japanese Kanji), "Nakajima" is my older sister's last name.
 > And more last-names: Miduki (みづき, 水月), Yumeshirushi (ゆめしるし, 夢璽), Naisho (ないしょ, 内緒).  
