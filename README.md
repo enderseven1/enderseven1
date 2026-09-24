@@ -1,10 +1,20 @@
 <div align="center">
     
-## 岛田水木的主页 / I'm Shimada Mizuki
+## 岛田水木的主页 / I'm Mizuki Shimada
 
 ![GitHub followers](https://img.shields.io/github/followers/enderseven1)
 ![GitHub User's stars](https://img.shields.io/github/stars/enderseven1?affiliations=OWNER%2CCOLLABORATOR)
 
+</div>
+
+> **About My Name**  
+> Usually I use my main name "Mizuki Shimada" ("しまだ　みずき" in Japanese Hiragana, "島田みずき" or "島田水木" in Japanese Kanji).  
+> Sometimes I use last-name-changed name "Mizuki Nakajima" ("なかじま　みずき" in Japanese Hiragana, "中島みずき" or "島田水木" in Japanese Kanji), "Nakajima" is my older sister's last name.
+> And more last-names: Miduki (みづき, 水月), Yumeshirushi (ゆめしるし, 夢璽), Naisho (ないしょ, 内緒).  
+> I seldom use my other name: Hứa Triển Cừ (許展渠 in Vietnamese Chu Nom), Lucy Ceoi (崔芷瑤 in Cantonese), Cherry Song (宋佳怡 in Mandarin), Ratte Shimada  ("しまだ　ラッテ" or "島田楽照" in Japanese).  
+
+<div align="center">
+    
 [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=microsoft)](https://www.microsoft.com)
 [![OS:Android16](https://img.shields.io/badge/OS-Android%2016-green?logo=android)](https://www.android.com/)  
 [![OS:Android10](https://img.shields.io/badge/OS-Android%2010-green?logo=android)](https://www.android.com/)  
@@ -25,16 +35,15 @@
 ---
 -->
 </div><div align="left">
+    
 > Hello, World!
 
 ``` python
 # -*- coding:utf-8 -*-
 class ShimadaMizuki:
     def __init__(self):
-        self.name = "Shimada Mizuki"
-        self.ChineseName = "岛田水木"
+        self.name = "Mizuki Shimada"
         self.birthday = "2008.10.28"
-        self.job = "高中牲"
         self.programmingLanguages = ["Codemao（编程猫）","Python","C#","VB.NET","C++","VB6","易语言"]
         self.national = "Chinese"
 ```
