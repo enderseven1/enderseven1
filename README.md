@@ -9,7 +9,7 @@
 
 > **About My Names**  
 > Usually I use my main name "Mizuki Shimada" ("しまだ　みずき" in Hiragana; "島田みずき" or "島田水木" in Kanji).  
-> Sometimes, I use last-name-changed name "Mizuki Nakajima" ("なかじま　みずき" in Japanese Hiragana; "中島みずき" or "島田水木" in Japanese Kanji), "Nakajima" is my older sister's last name.
+> Sometimes, I use last-name-changed name "Mizuki Nakajima" ("なかじま　みずき" in Japanese Hiragana; "中島みずき" or "中島水木" in Japanese Kanji), "Nakajima" is my older sister's last name.
 > And more last-names: Miduki (みづき in Hiragana; 水月 in Kanji), Yumeshirushi (ゆめしるし, 夢璽), Naisho (ないしょ, 内緒).  
 > I seldom use my other name: Hứa Triển Cừ (許展渠 in Vietnamese Chữ Nôm), Lucy Ceoi (崔芷瑤 in Cantonese), Cherry Song (宋佳怡 in Mandarin), and Ratte Shimada  ("しまだ　ラッテ" or "島田楽照" in Japanese).  
 
